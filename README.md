@@ -1,6 +1,6 @@
 # Ayrık Yapılar Dersi - 3. Hafta Ödevi
 
-Selamlar, yazılım mühendisliği 2. sınıf Ayrık Yapılar dersi için hazırladığım 3. hafta ödevini bu repoya ekliyorum. 
+Selamlar Ayrık Yapılar dersi için hazırladığım 3. hafta ödevini bu repoya ekliyorum. 
 
 Ödev temel olarak ispat yöntemleri üzerineydi. Belgenin içinde şu konuların detaylı soru çözümleri var:
 - Doğrudan İspat
